@@ -10,8 +10,6 @@ The following files are represented:
 * ttest.R # bonus f
 * monthly-new-york-city-births.csv
 * plots/ 
-* GOOG.RData
-* unrulypassengers.RData
 
 ## walkthrough.R
 
